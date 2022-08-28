@@ -1,4 +1,4 @@
-package com.fitnessapp.newarchitecture.modules;
+package com.hus.fitness.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

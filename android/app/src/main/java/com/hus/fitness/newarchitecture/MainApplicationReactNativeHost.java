@@ -1,4 +1,4 @@
-package com.fitnessapp.newarchitecture;
+package com.hus.fitness.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.fitnessapp.BuildConfig;
-import com.fitnessapp.newarchitecture.components.MainComponentsRegistry;
-import com.fitnessapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.hus.fitness.BuildConfig;
+import com.hus.fitness.newarchitecture.components.MainComponentsRegistry;
+import com.hus.fitness.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
